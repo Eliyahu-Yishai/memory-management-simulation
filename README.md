@@ -1,4 +1,4 @@
-# memory-management-simulation-in
+# memory management simulation
 # @author Eliyahu yishaiovizh
 
   
