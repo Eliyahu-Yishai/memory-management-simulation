@@ -4,7 +4,7 @@
   
 memory management simulation
 
-#Description 
+//--Description 
 
 In this exercise we would like to build simulate how disk management works.
 We will exercise 3 classes. 
@@ -26,7 +26,7 @@ In the FsDisk department, 7 functions were built:
 #8 DelFile - delete file from MainDir. 
 if typed 0 the function to do exit and free to object of disk.
 
-# input 
+//--input 
 the program accept number from 0 to 8 . 
 all number will active function of the class of FsDisk.
 Below is a table where you will know for each function what is the input for it:
@@ -40,7 +40,7 @@ Below is a table where you will know for each function what is the input for it:
 #8   a string of file name
 
 
-#output
+//--output
 
  the program wil print the result of what you typed.
 Below is what you will get if you typed a number between 0 and 8:
@@ -53,6 +53,6 @@ Below is what you will get if you typed a number between 0 and 8:
 # 7 return a string.
 #8  return 1 or -1. 
 
-#how to compile?
+//--how to compile?
 Compile:  g++ code_stub.cpp  -o code_stu
 run : ./code_stu
